@@ -9,7 +9,7 @@ I have just started to learn to code. It's super easy and I am already learning 
 * 🌍  I'm based in Gurugram
 * 🖥️  See my portfolio at [this website.](http://anagh-about.lovable.app)
 * ✉️  You can contact me at [anagh.malik99@gmail.com](mailto:anagh.malik99@gmail.com)
-* 🧠  I'm currently learning Agentic AI and DOM JavaScript
+* 🧠  I'm currently learning Agentic AI and React.
 * 💬  Ask me about drums as well, it's my passion as well as football.
 
 <p align="left">
